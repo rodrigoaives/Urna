@@ -579,7 +579,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::Urna2.Properties.Resources.justica;
-            this.pictureBox1.Location = new System.Drawing.Point(596, 46);
+            this.pictureBox1.Location = new System.Drawing.Point(596, 41);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(311, 88);
             this.pictureBox1.TabIndex = 48;
