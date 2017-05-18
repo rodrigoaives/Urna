@@ -541,9 +541,9 @@
             this.panel2.Controls.Add(this.label7);
             this.panel2.Controls.Add(this.totalOsama);
             this.panel2.Controls.Add(this.totalMarina);
-            this.panel2.Location = new System.Drawing.Point(12, 46);
+            this.panel2.Location = new System.Drawing.Point(12, 41);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(540, 389);
+            this.panel2.Size = new System.Drawing.Size(540, 394);
             this.panel2.TabIndex = 75;
             this.panel2.Visible = false;
             // 
